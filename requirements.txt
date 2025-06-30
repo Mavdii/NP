@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+asyncio==3.4.3
+aiohttp==3.9.1
+pydantic==2.5.2
+sqlalchemy==2.0.23
+alembic==1.13.1
+redis==5.0.1
+cryptography==41.0.8 
