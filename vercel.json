@@ -12,12 +12,7 @@
       "dest": "bot.py"
     }
   ],
-  "functions": {
-    "bot.py": {
-      "maxDuration": 30
-    }
-  },
   "env": {
     "PYTHONPATH": "."
   }
-} 
+}
